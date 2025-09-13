@@ -1,7 +1,7 @@
 <!-- Cyberpunk-themed profile README for RogueZephyr -->
 
 <h1 align="center" style="color:#ff003c;">
-  <img src="https://user-images.githubusercontent.com/1054168713177337976/roguezephyr-cyberpunk.png" width="60"/>
+  <!-- <img src="https://user-images.githubusercontent.com/1054168713177337976/roguezephyr-cyberpunk.png" width="60"/> -->
   RogueZephyr
 </h1>
 
